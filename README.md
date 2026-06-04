@@ -7,13 +7,7 @@ I'm a Computer Science student specializing in Cybersecurity & Web Technology, a
 
 ## 👨‍💻 Cybersecurity Projects
 
-> 🚧 Projects coming soon — currently building out labs focused on AI-driven security, cloud IAM, and access governance. Check back for updates!
-
-<!--
-<b>Project 1 — [Project Title]</b>
-<br/><a href="#">github.com/cameron-dowdell/[repo]</a>
-<br/><br/>
--->
+Project 1 - [Cybersecurity Home Lab](https://github.com/camerondowdell/Cybersecurity-Home-Lab)
 
 ---
 
