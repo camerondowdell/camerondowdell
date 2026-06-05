@@ -11,7 +11,7 @@ Project 1 - [Cybersecurity Home Lab](https://github.com/camerondowdell/Cybersecu
 
 Project 2 - [IT Helpdesk Home Lab](https://github.com/camerondowdell/IT-Help-Desk-Ticketing-Lab)
 ---
-
+Project 3 - [Active Directory Home Lab](https://github.com/camerondowdell/Active-Directory-Home-Lab-)
 ## 🛠️ Tools & Technologies
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
