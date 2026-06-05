@@ -8,7 +8,9 @@ I'm a Computer Science student specializing in Cybersecurity & Web Technology, a
 ## 👨‍💻 Cybersecurity Projects
 
 Project 1 - [Cybersecurity Home Lab](https://github.com/camerondowdell/Cybersecurity-Home-Lab)
+
 Project 2 - [IT Helpdesk Home Lab](https://github.com/camerondowdell/IT-Help-Desk-Ticketing-Lab)
+
 Project 3 - [Active Directory Home Lab](https://github.com/camerondowdell/Active-Directory-Home-Lab-)
 ## 🛠️ Tools & Technologies
 
